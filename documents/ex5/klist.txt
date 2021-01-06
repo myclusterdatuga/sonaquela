@@ -1,0 +1,5 @@
+Credentials cache: API:9A68F15F-975F-4E5B-8775-2E5E92949598
+        Principal: fquartin@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  5 16:20:00 2021  Jan  6 02:20:00 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
