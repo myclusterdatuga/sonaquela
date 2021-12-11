@@ -10,9 +10,9 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_strlen(char *str)
+size_t	ft_strlen(const char *str)
 {
-	int	a;
+	size_t	a;
 
 	a = 0;
 	while (str[a] != '\0')
