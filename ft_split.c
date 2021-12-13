@@ -21,8 +21,8 @@ static	char **alloc_split(char const *s, char c)
 }
 void	*split_s(char **str,char *s,char c)
 {
-
-
+	
+}
 char **ft_split(char const *s, char c)
 {
 	char	**str;
@@ -33,4 +33,6 @@ char **ft_split(char const *s, char c)
 	if(!split_s(str, s, c)
 			return(NULL);
 	return (str);
+}
+
 
